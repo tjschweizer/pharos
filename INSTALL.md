@@ -190,7 +190,7 @@ The latest release version of Z3 (4.8.7) has passed our testing.
 
 We build Z3 using commands like these:
 ```
-$ git clone -b Z3-4.8.7 https://github.com/Z3Prover/z3.git
+$ git clone -b z3-4.8.7 https://github.com/Z3Prover/z3.git
 $ cd z3
 $ mkdir build
 $ cd build
